@@ -1,0 +1,31 @@
+term,type,score
+define,unigram,10
+explain,unigram,10
+describe,unigram,9
+summarize,unigram,9
+overview,unigram,7
+architecture,unigram,12
+implementation,unigram,12
+design,unigram,8
+tradeoff,unigram,8
+retrieval,unigram,13
+embedding,unigram,13
+vector search,phrase,14
+full text search,phrase,14
+citation,unigram,11
+source,unigram,7
+evidence,unigram,11
+swift,unigram,10
+python,unigram,10
+function,unigram,8
+class,unigram,8
+struct,unigram,8
+module,unigram,8
+database,unigram,12
+sqlite,unigram,12
+schema,unigram,11
+index,unigram,11
+token budget,phrase,10
+ranking,unigram,8
+relevance,unigram,8
+debug,unigram,6

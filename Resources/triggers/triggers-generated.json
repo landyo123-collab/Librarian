@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-25T21:02:54.362325+00:00",
+    "source_csv": "Resources/triggers/triggers-base.csv",
+    "count": 30,
+    "description": "Public-safe generic trigger lexicon for Librarian."
+  },
+  "triggers": [
+    {
+      "term": "full text search",
+      "type": "phrase",
+      "score": 14.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "vector search",
+      "type": "phrase",
+      "score": 14.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "embedding",
+      "type": "unigram",
+      "score": 13.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "retrieval",
+      "type": "unigram",
+      "score": 13.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "architecture",
+      "type": "unigram",
+      "score": 12.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "database",
+      "type": "unigram",
+      "score": 12.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "implementation",
+      "type": "unigram",
+      "score": 12.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "sqlite",
+      "type": "unigram",
+      "score": 12.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "citation",
+      "type": "unigram",
+      "score": 11.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "evidence",
+      "type": "unigram",
+      "score": 11.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "index",
+      "type": "unigram",
+      "score": 11.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "schema",
+      "type": "unigram",
+      "score": 11.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "define",
+      "type": "unigram",
+      "score": 10.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "explain",
+      "type": "unigram",
+      "score": 10.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "python",
+      "type": "unigram",
+      "score": 10.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "swift",
+      "type": "unigram",
+      "score": 10.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "token budget",
+      "type": "phrase",
+      "score": 10.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "describe",
+      "type": "unigram",
+      "score": 9.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "summarize",
+      "type": "unigram",
+      "score": 9.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "class",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "design",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "function",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "module",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "ranking",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "relevance",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "struct",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "tradeoff",
+      "type": "unigram",
+      "score": 8.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "overview",
+      "type": "unigram",
+      "score": 7.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "source",
+      "type": "unigram",
+      "score": 7.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    },
+    {
+      "term": "debug",
+      "type": "unigram",
+      "score": 6.0,
+      "count_total": 1,
+      "count_by_folder": {
+        "general": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Librarian supports:
+- lexical retrieval (FTS5/BM25)
+- semantic retrieval (embeddings)
+- blended ranking with recency and note boosts
+
+For best results:
+- keep documents readable
+- keep code folders organized

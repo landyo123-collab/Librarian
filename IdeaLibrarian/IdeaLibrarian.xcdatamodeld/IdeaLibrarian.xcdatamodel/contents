@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container
+   type="com.apple.CoreData.ManagedObjectModel.Managed"
+   version="1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="http://developer.apple.com/library/private/schemas/CoreData/EntityModel.xsd">
+   <entity name="Item" id="unique-id-item" isAbstract="NO" parentEntity="" customClass="" customModule="_Objc" syncedWithCloudKit="YES">
+      <attribute name="timestamp" attributeType="Date" isOptional="YES" valueType="" number="0" customClassName="" customModule="" customValueClass=""/>
+   </entity>
+</container>
