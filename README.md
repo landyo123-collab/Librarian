@@ -102,10 +102,14 @@ swift run Librarian
 
 Add/replace these files when preparing the repo page:
 
-- `screenshots/01-main-window.png`
-- `screenshots/02-drag-import.png`
-- `screenshots/03-index-and-embeddings.png`
-- `screenshots/04-grounded-response.png`
+- <img width="1003" height="604" alt="Screenshot 2026-03-25 at 6 10 47 PM" src="https://github.com/user-attachments/assets/4885416f-5687-4778-a482-15158fcecce5" />
+This is the home screen.
+- <img width="1920" height="1080" alt="Screenshot 2026-03-25 at 6 13 10 PM (2)" src="https://github.com/user-attachments/assets/15da980b-8cbe-41be-8c80-59dde7aa7b23" />
+This is what it looks like when you are dragging and dropping files.
+- <img width="980" height="717" alt="Screenshot 2026-03-25 at 6 15 34 PM" src="https://github.com/user-attachments/assets/2ff16cde-a025-4956-a6f7-541bbfac52aa" />
+Example from what my corpus looks like. 
+- <img width="1681" height="652" alt="Screenshot 2026-03-25 at 6 23 09 PM" src="https://github.com/user-attachments/assets/6cf3a49d-45c0-4a30-a384-8fe1095a9e9d" />
+Example from my Librarian of an answer.
 
 ## Roadmap
 
