@@ -100,7 +100,6 @@ swift run Librarian
 
 ## Screenshots
 
-Add/replace these files when preparing the repo page:
 
 - <img width="1003" height="604" alt="Screenshot 2026-03-25 at 6 10 47 PM" src="https://github.com/user-attachments/assets/4885416f-5687-4778-a482-15158fcecce5" />
 This is the home screen.
